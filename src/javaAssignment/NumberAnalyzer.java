@@ -67,12 +67,12 @@ public class NumberAnalyzer {
     /**
      * This method calculates the sum of two integer numbers.
      *
-     * @param number1 the first number to be added
-     * @param number2 the second number to be added
+     * @param firstNumber the first number to be added
+     * @param secondNumber the second number to be added
      * @return the sum of the two numbers
      */
-    public static int calculateSum(int number1, int number2){
-        return number1 + number2;
+    public static int calculateSum(int firstNumber, int secondNumber){
+        return firstNumber + secondNumber;
     }
 
     /**
